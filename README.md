@@ -1,4 +1,4 @@
-# hand-region-extraction-and-feature-classification
+# hand-region-extraction-&-feature-classification-&-signature-classification
 
 Exercise 4A – ( 3% ) – Hand Region Extraction
 

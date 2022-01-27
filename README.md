@@ -3,6 +3,7 @@
 Exercise 4A – ( 3% ) – Hand Region Extraction
 
 We modify:
+
 First, the hand_threshold function and make it be able to calculate the threshold of the binary image using the isothresh. Here, we do the following:
 
 •	Compute the initial estimate of the overall image intensity
@@ -21,6 +22,7 @@ Second, we modify the hand_extract function and make it be able to extract the h
 •	Label the hand region.
 
 The resulting image:
+
 Figure 1. Rock
 ![image](https://user-images.githubusercontent.com/69174836/151282640-8d69ad70-6400-40ef-b00d-8ce228b491db.png)
 
